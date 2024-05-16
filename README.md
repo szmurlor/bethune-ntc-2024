@@ -3,7 +3,9 @@
 This repository contains documents, links used for presentation about Network Traffic Classification tutorial in IuT Bethune, France in 2024, during ERASMUS+ visit.
 
 Presentation:
-
+ 
+ * [Bethune NTC.pdf](Bethune NTC.pdf)
+ 
 Links to colab noteboks:
  * Simple classifcation with SciKit - https://colab.research.google.com/drive/1T34I98_x55wUXe5schQ6vnIBm5NhvQiz?usp=sharing
  * NTC classication exercise: https://colab.research.google.com/drive/1g0fRcq-sdzYgxu6cEYxbG2vVEmAI2iai?usp=sharing

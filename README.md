@@ -29,4 +29,5 @@ Resources:
 * https://github.com/micaelCZ/Encrypted-Traffic-Classification-with-Deep-Learning/blob/main/models/First_Scenario.ipynb
 * Image-Net presentatton, https://image-net.org/static_files/papers/ImageNet_2010.pdf
 * A blog post on Attention and Transformer architecture by Aayush Neupane, https://neupaneaayush.com.np/attention-simplified/
-* https://jalammar.github.io/illustrated-transformer/
+* https://jalammar.github.io/illustrated-transformer/,
+* ET-BERT: A Contextualized Datagram Representation with Pre-training Transformers for Encrypted Traffic Classification, https://arxiv.org/abs/2202.06335

@@ -29,3 +29,4 @@ Resources:
 * https://github.com/micaelCZ/Encrypted-Traffic-Classification-with-Deep-Learning/blob/main/models/First_Scenario.ipynb
 * Image-Net presentatton, https://image-net.org/static_files/papers/ImageNet_2010.pdf
 * A blog post on Attention and Transformer architecture by Aayush Neupane, https://neupaneaayush.com.np/attention-simplified/
+* https://jalammar.github.io/illustrated-transformer/

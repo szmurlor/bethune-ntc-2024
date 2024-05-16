@@ -4,7 +4,8 @@ This repository contains documents, links used for presentation about Network Tr
 
 Presentation:
  
- * [Bethune NTC.pdf](Bethune NTC.pdf)
+ * [Bethune NTC.pdf](
+https://raw.githubusercontent.com/szmurlor/bethune-ntc-2024/main/Bethune_NTC.pdf)
  
 Links to colab noteboks:
  * Simple classifcation with SciKit - https://colab.research.google.com/drive/1T34I98_x55wUXe5schQ6vnIBm5NhvQiz?usp=sharing

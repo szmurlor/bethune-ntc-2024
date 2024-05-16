@@ -34,3 +34,15 @@ Resources:
 * A blog post on Attention and Transformer architecture by Aayush Neupane, https://neupaneaayush.com.np/attention-simplified/
 * https://jalammar.github.io/illustrated-transformer/,
 * ET-BERT: A Contextualized Datagram Representation with Pre-training Transformers for Encrypted Traffic Classification, https://arxiv.org/abs/2202.06335
+
+
+Study in Poland:
+
+* https://erasmus.pw.edu.pl/erasmusen/Incoming-Students
+* https://www.ee.pw.edu.pl/en/studencka-wymiana-miedzynarodowa/erasmus/studenci-przyjezdzajacy/
+* https://www.ee.pw.edu.pl/en/studencka-wymiana-miedzynarodowa/erasmus/studenci-przyjezdzajacy/studenci-przyjezdzajacy-oferowane-przedmioty-semestr-jesienno-zimowy/
+* https://www.elka.pw.edu.pl/eng/Students/Courses-Currently-Offered-in-English/2023-2024-Summer-Semester-Courses
+* Why study in Poland - https://youtu.be/5N4rP37qLqA
+* Fly into Space - https://youtu.be/YcWJkya7nxA
+* 10 Places to visit in Poland - https://youtu.be/FZb2uCgosdc 
+
